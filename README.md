@@ -1,5 +1,5 @@
 # c++-programming-tasks
-🌟TASK-1:WRITE A C PROGRAM TO READ THE NAME, AGE AND PHONE NUMBER FROM THE USER, STORE THEM IN VARIABLES AND DISPLAY THEM BACK.
+🌟TASK-1:Write a C++ program to print ASCII value of a character
 🌟Task 2:Write a C++ program to check if the given number is even or odd.
 🌟Task 3:Write a C++ program to check if the given year is a leap year.
 🌟Task 4:Write a C++ program to calculate sum of all the elements of an array.
